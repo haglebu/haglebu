@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @haglebu
 - 👀 I’m interested in RETRO COMPUTING
-- 🌱 I’m currently learning ASSEMBLER
 - 📫 How to reach me ... www.retrocmp.de
 
 <!---
